@@ -56,7 +56,7 @@ Specializing in network security, I have successfully led and executed various p
 
 ## 4. PROJECT EXPERIENCE  
 
-### **1. Regional Deployment and Optimization of F5 Solutions**  
+### **Regional Deployment and Optimization of F5 Solutions**  
 - **Objective:** Design, implement, and optimize F5 solutions for secure application delivery across regional and international financial service operations.  
 - **Key Achievements:**  
   - Deployed and managed F5 modules (LTM, GTM), achieving a **35% improvement in application delivery efficiency**.  
@@ -66,7 +66,7 @@ Specializing in network security, I have successfully led and executed various p
   - Optimized traffic policies, reducing latency by **20%**.  
 - **Tools/Technologies:** F5 Load Balancers  
 
-### **2. IT Risk Assessment and Policy Compliance for MMC Corporation**  
+### **IT Risk Assessment and Policy Compliance for MMC Corporation**  
 - **Objective:** Assess IT risks and enhance policy compliance for MMC Corporation and its 4 associated ports.  
 - **Key Achievements:**  
   - Conducted IT risk assessments for **200+ systems**, identifying vulnerabilities and creating remediation plans.  
@@ -75,7 +75,7 @@ Specializing in network security, I have successfully led and executed various p
   - Reduced risk exposure by **25%** through enhanced compliance practices.  
 - **Tools/Technologies:** ISO frameworks, RMIT, TIA compliance methodologies  
 
-### **3. Comprehensive Endpoint Security Deployment**  
+### **Comprehensive Endpoint Security Deployment**  
 - **Objective:** Strengthen endpoint security across financial service environments.  
 - **Key Achievements:**  
   - Deployed McAfee products across **500+ endpoints**, reducing security incidents by **50%**.  
