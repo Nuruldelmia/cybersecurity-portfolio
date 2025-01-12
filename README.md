@@ -5,6 +5,7 @@
 ## 1. ABOUT ME  
 
 Professionally astute IT Consultant and Engineer with over 5 years of experience providing high-quality IT support and solutions across industries such as global management consultancy, financial services, and telecommunications.  
+
 Specializing in network security, I have successfully led and executed various projects, ensuring timely delivery and client satisfaction. Known for my ability to adapt quickly to in-house operations, multitask efficiently, and achieve fast-track career advancements by consistently exceeding expectations.  
 
 ---
