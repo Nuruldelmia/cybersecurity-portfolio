@@ -106,5 +106,3 @@ To excel as a cybersecurity and IT audit professional by leveraging expertise in
 - **LinkedIn:** [https://www.linkedin.com/in/nuruldelmia/](https://www.linkedin.com/in/nuruldelmia/)  
 
 ---
-
-This Markdown draft is formatted for your **README.md** file. Copy and paste this into your repository to display your portfolio professionally. Let me know if you need further adjustments!
