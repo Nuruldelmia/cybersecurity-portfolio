@@ -2,6 +2,7 @@
 
 ---
 
+
 ## 1. ABOUT ME  
 
 Professionally astute IT Consultant and Engineer with over 5 years of experience providing high-quality IT support and solutions across industries such as global management consultancy, financial services, and telecommunications.  
